@@ -1,4 +1,4 @@
-n=str(input("enter your name"))
+n='ramya'
 if(n=='ramya'):
     print('your roll no is 29')
 elif(n=='puja'):
